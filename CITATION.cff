@@ -7,6 +7,7 @@ message: Please cite this software using these metadata.
 type: software
 authors:
   - given-names: Yu-Hsin
-    email: yuhsinlee@gapp.nthu.edu.tw
-    affiliation: 'National Taiwan University '
     family-names: Lee
+    orcid: 'https://orcid.org/0000-0002-0839-6244'
+    affiliation: National Taiwan University
+    email: yuhsinlee@gapp.nthu.edu.tw
