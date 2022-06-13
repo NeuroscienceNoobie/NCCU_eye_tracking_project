@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: imageScramble
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Yu-Hsin
+    email: yuhsinlee@gapp.nthu.edu.tw
+    affiliation: 'National Taiwan University '
+    family-names: Lee
