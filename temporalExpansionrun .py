@@ -57,7 +57,7 @@ event.globalKeys.add(key='q',func=byebye)
 filelist = filelist[-16:] #be ware for weird .jpg hidden files 
 jitList_ITI = np.random.uniform(0.1, 1.5, 50)
 
-refreshRate = 240
+refreshRate = 60
 
 # Open Window
 colorspace= 'rgb255'
